@@ -2,7 +2,7 @@ syntax = "proto3";
 
 option go_package = "task2_rps2/proto";
 
-package engine;
+package proto;
 
 // The game engine service definition
 service GameEngine {
