@@ -1,4 +1,4 @@
-package task2_rps2
+package main
 
 import ("fmt"
         "bufio"
@@ -6,7 +6,7 @@ import ("fmt"
         "os"
         "math/rand"
 
-        pb "github.com/Patrick-Lapsien/ASGoUpskilling/task2_rps2"
+        pb "github.com/Patrick-Lapsien/ASGoUpskilling/task2_rps2/client"
         "google.golang.org/grpc"
         )
 
